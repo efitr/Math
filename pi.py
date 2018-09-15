@@ -22,3 +22,4 @@ if __name__ = '__main__':
 
     #make it be a string
 
+    #make number string and while number is not the lenght 
